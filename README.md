@@ -7,3 +7,6 @@ Skip'n Glitch is a competitive two-player strategic puzzle game developed for JS
 ###js13k
 
 ###js13kgames
+
+
+## Game Link: http://www.foumartgames.com/games/SkipGlitch/
