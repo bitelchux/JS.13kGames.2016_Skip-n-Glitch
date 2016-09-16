@@ -4,12 +4,15 @@
 
 Skip'n Glitch is a competitive two-player strategic puzzle game developed for 13 kilobytes JavaScript Game Jam.
 
-Twitter tags: [~~#~~js13k](https://twitter.com/search?src=typd&q=%23js13k) ; [~~#~~js13kgames](https://twitter.com/search?src=typd&q=%23js13kgames)
-
-## Game Submission Page: http://js13kgames.com/entries/skipn-glitch
-
-## Game Entry Link: http://js13kgames.com/games/skipn-glitch/index.html
+![Game Icon](http://www.foumartgames.com/games/SkipGlitch/logo.png)
 
 
+### Game Submission Page: http://js13kgames.com/entries/skipn-glitch
 
-## Post-Combo Link: http://www.foumartgames.com/games/SkipGlitch/
+### Game Entry Link: http://js13kgames.com/games/skipn-glitch/index.html
+
+Screenshots:
+
+![Game Screenshots](http://www.foumartgames.com/games/SkipGlitch/og_screen.jpg)
+
+### Post-Compo Link: http://www.foumartgames.com/games/SkipGlitch/
